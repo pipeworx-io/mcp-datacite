@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-datacite",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "DataCite MCP — DOIs for research datasets (free, no auth)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-72faf9136c1d5504924a117ba6d584569616ff5e61f933a0b3421c98482dca2a",
-    "sourceCommit": "8355bf3d1eece256a62a89dba2278e7a77bebe07"
+    "sourceHash": "v1-4475d8fc96074575986129c9aedd61892c2bf210532f5a7e044914465d131cd3",
+    "sourceCommit": "01241619b78233fd55d0e3612331499a63f03ae7"
   }
 }
