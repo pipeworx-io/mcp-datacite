@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-datacite",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "DataCite MCP — DOIs for research datasets (free, no auth)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "datacite",
     "gatewaySlug": "datacite",
-    "sourceHash": "v1-0a69952102873aacebc30660af8780f0247b44f6a9ebe4f01233f19013a907ba",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-748817262d20fdca362884e3bb068299fa6af5e67439354eeea8b73f707bc2e5",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
